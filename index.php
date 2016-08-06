@@ -1,4 +1,5 @@
 <?php
 
-echo "DOMAIN KAMUYU";
+echo "Git setup";
+
 ?>
